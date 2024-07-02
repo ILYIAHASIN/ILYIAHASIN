@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ILYIAHASIN
 - 👀 I’m interested in network and software engineering 
-- 🌱 I’m currently learning Cisco ccna 
+- 🌱 I’m currently learning Assembly
 - 💞️ I’m looking to collaborate on opinions
 - 😄 Pronouns: strak
 - ⚡ Fun fact: nothing
